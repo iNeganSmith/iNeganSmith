@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/iNeganSmith/devnegansmith_headshots/main/assets/devnegansmith-preview.jpg" alt="DevNeganSmith - FiveM Resources" width="100%">
 </p>
 
-<h1 align="center">Hola 👋, soy DevNeganSmith</h1>
+<h1 align="center">Hola 👋, soy NeganSmith</h1>
 
 <h3 align="center">Desarrollador de recursos para FiveM · QBX · QBCore · ESX</h3>
 
