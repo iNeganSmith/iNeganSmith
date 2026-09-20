@@ -106,8 +106,12 @@ Puedes ver todos mis proyectos públicos directamente desde:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iNeganSmith&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de iNeganSmith">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNeganSmith&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeganSmith&theme=tokyonight" alt="Resumen del perfil de iNeganSmith" width="100%">
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iNeganSmith&theme=tokyonight" alt="Estadísticas de iNeganSmith">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iNeganSmith&theme=tokyonight" alt="Lenguajes por repositorio">
 </p>
 
 ## 🔗 Encuéntrame en GitHub
